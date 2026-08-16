@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-a41npg.plcwin.xyz/sitemap.xml
